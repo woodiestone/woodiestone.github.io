@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.picnic.com/index.html</loc>
-    <lastmod>2020-12-24</lastmod>
+    <lastmod>2021-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.picnic.com/images/jin%20bd-crop-u163.jpg</image:loc>
+      <image:loc>http://www.picnic.com/images/%E4%B8%89%E8%A6%96.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.picnic.com/images/jin%20bd-crop-u163_2x.jpg</image:loc>
+      <image:loc>http://www.picnic.com/images/%E4%B8%89%E8%A6%96_2x.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://www.picnic.com/animation.html</loc>
+    <lastmod>2021-01-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.picnic.com/images/%E4%B8%89%E8%A6%96.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.picnic.com/images/%E4%B8%89%E8%A6%96_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.picnic.com/oh-my-god.html</loc>
+    <lastmod>2021-01-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <image:image>
       <image:loc>http://www.picnic.com/images/jk%20bd.jpg</image:loc>
     </image:image>
@@ -18,10 +36,16 @@
       <image:loc>http://www.picnic.com/images/jk%20bd_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.picnic.com/images/jk%20jk-crop-u295.jpg</image:loc>
+      <image:loc>http://www.picnic.com/images/jin%20bd-crop-u518.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.picnic.com/images/jk%20jk-crop-u295_2x.jpg</image:loc>
+      <image:loc>http://www.picnic.com/images/jin%20bd-crop-u518_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.picnic.com/images/jk%20jk-crop-u520.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.picnic.com/images/jk%20jk-crop-u520_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

@@ -1,21 +1,23 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.picnic.com" resolutions="1x,2x" timestamp="1609403570269">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.picnic.com" resolutions="1x,2x" timestamp="1610863107734">
   <folder name="css">
     <file name="site_global.css" crc="4167989958"/>
-    <file name="index.css" crc="3952356686" ref="index"/>
+    <file name="index.css" crc="206184375" ref="index"/>
+    <file name="animation.css" crc="4034559051" ref="animation"/>
+    <file name="oh-my-god.css" crc="3898968326" ref="oh-my-god"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3803043152" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="380897831" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:animation:oh-my-god"/>
+    <file name="museutils.js" crc="3803043152" ref="index:animation:oh-my-god"/>
+    <file name="whatinput.js" crc="86476730" ref="index:animation:oh-my-god"/>
+    <file name="museconfig.js" crc="380897831" ref="index:animation:oh-my-god"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:oh-my-god"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:animation:oh-my-god"/>
+    <file name="require.js" crc="4157109226" ref="index:animation:oh-my-god"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
-    <file name="webpro.js" crc="242022427" ref="index"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="oh-my-god"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="oh-my-god"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="oh-my-god"/>
+    <file name="touchswipe.js" crc="4066113679" ref="oh-my-god"/>
   </folder>
   <folder name="images">
     <file name="1.jpg" crc="275166804" ref="index">
@@ -24,50 +26,68 @@
     <file name="1_2x.jpg" crc="505722931" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2.jpg" crc="360387370" ref="index">
+    <file name="2.jpg" crc="360387370" ref="oh-my-god">
+      <caption webpage="index" alt=""/>
+      <caption webpage="oh-my-god" alt=""/>
+    </file>
+    <file name="2_2x.jpg" crc="75585152" ref="oh-my-god">
+      <caption webpage="index" alt=""/>
+      <caption webpage="oh-my-god" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="oh-my-god"/>
+    <file name="jk bd.jpg" crc="3811917111" seo="true" ref="oh-my-god">
+      <caption webpage="index" alt=""/>
+      <caption webpage="oh-my-god" alt=""/>
+    </file>
+    <file name="jk bd_2x.jpg" crc="22721209" seo="true" ref="oh-my-god">
+      <caption webpage="index" alt=""/>
+      <caption webpage="oh-my-god" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="oh-my-god"/>
+    <file name="face-圖層 1.png" crc="3915504726" ref="index:oh-my-god">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2_2x.jpg" crc="75585152" ref="index">
+    <file name="face-圖層 1_2x.png" crc="4207807636" ref="index:oh-my-god">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jin bd-crop-u163.jpg" crc="4149973519" seo="true" ref="index">
+    <file name="face-圖層 2.png" crc="426106178" ref="index:oh-my-god">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jin bd-crop-u163_2x.jpg" crc="4282303754" seo="true" ref="index">
+    <file name="face-圖層 2_2x.png" crc="4073447268" ref="index:oh-my-god">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="jk bd.jpg" crc="3811917111" seo="true" ref="index">
+    <file name="face-圖層 3.png" crc="124237393" ref="index:oh-my-god">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jk bd_2x.jpg" crc="22721209" seo="true" ref="index">
+    <file name="face-圖層 3_2x.png" crc="441505100" ref="index:oh-my-god">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jk jk-crop-u295.jpg" crc="4026455180" seo="true" ref="index">
+    <file name="三視.jpg" crc="95675551" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jk jk-crop-u295_2x.jpg" crc="38622482" seo="true" ref="index">
+    <file name="三視_2x.jpg" crc="3781428283" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="face-圖層 1.png" crc="3915504726" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="三視.png" crc="3971853114" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
     </file>
-    <file name="face-圖層 1_2x.png" crc="4207807636" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="三視_2x.png" crc="4126830566" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
     </file>
-    <file name="face-圖層 2.png" crc="426106178" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="jin bd-crop-u518.jpg" crc="4149973519" seo="true" ref="oh-my-god">
+      <caption webpage="oh-my-god" alt=""/>
     </file>
-    <file name="face-圖層 2_2x.png" crc="4073447268" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="jin bd-crop-u518_2x.jpg" crc="4282303754" seo="true" ref="oh-my-god">
+      <caption webpage="oh-my-god" alt=""/>
     </file>
-    <file name="face-圖層 3.png" crc="124237393" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="jk jk-crop-u520.jpg" crc="4026455180" seo="true" ref="oh-my-god">
+      <caption webpage="oh-my-god" alt=""/>
     </file>
-    <file name="face-圖層 3_2x.png" crc="441505100" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="jk jk-crop-u520_2x.jpg" crc="38622482" seo="true" ref="oh-my-god">
+      <caption webpage="oh-my-god" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4078152096" seo="true" mt="1608812614739" redirect="true"/>
+  <file name="index.html" crc="37917926" seo="true" mt="1610860867870" redirect="true"/>
+  <file name="animation.html" crc="4041417786" seo="true" mt="1610861134890" redirect="true"/>
+  <file name="oh-my-god.html" crc="3997002621" seo="true" mt="1610860788455" redirect="true"/>
 </manifest>
