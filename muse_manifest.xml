@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.commission.com" resolutions="1x,2x" timestamp="1611678309516">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.commission.com" resolutions="1x,2x" timestamp="1611718967448">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3897434814" ref="index"/>
-    <file name="master_a-__.css" crc="4030053580" ref="index:commission"/>
-    <file name="commission.css" crc="342464095" ref="commission"/>
+    <file name="index.css" crc="42365959" ref="index"/>
+    <file name="master_a-__.css" crc="401565179" ref="index:commission"/>
+    <file name="commission.css" crc="293245199" ref="commission"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:commission"/>
@@ -12,12 +12,11 @@
     <file name="museconfig.js" crc="380897831" ref="index:commission"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:commission"/>
     <file name="require.js" crc="4157109226" ref="index:commission"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:commission"/>
     <file name="webpro.js" crc="242022427" ref="index:commission"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index:commission"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index:commission"/>
     <file name="touchswipe.js" crc="4066113679" ref="index:commission"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:commission"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index:commission"/>
@@ -40,27 +39,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="commission" alt=""/>
     </file>
-    <file name="home-u326-fr.png" crc="4244233479" ref="index"/>
-    <file name="home-u326-fr_2x.png" crc="180869003" ref="index"/>
-    <file name="home-u326-r-fr.png" crc="369669368" ref="index"/>
-    <file name="home-u326-r-fr_2x.png" crc="134407970" ref="index"/>
-    <file name="home-u326-m-fr.png" crc="4001269312" ref="index"/>
-    <file name="home-u326-m-fr_2x.png" crc="3758240669" ref="index"/>
-    <file name="home-u285-fr.png" crc="131295946" ref="index"/>
-    <file name="home-u285-fr_2x.png" crc="518257355" ref="index"/>
-    <file name="home-u285-r-fr.png" crc="3806393210" ref="index"/>
-    <file name="home-u285-r-fr_2x.png" crc="528280012" ref="index"/>
-    <file name="home-u285-m-fr.png" crc="4163997383" ref="index"/>
-    <file name="home-u285-m-fr_2x.png" crc="90251029" ref="index"/>
-    <file name="cactus.jpg" crc="491424337" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="road.jpg" crc="180693847" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="trees.jpg" crc="4071309946" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="7cd375_6ac28c143be64c34975398552231e5fa~mv2.jpg" crc="4164153567" seo="true" ref="commission">
       <caption webpage="commission" alt=""/>
     </file>
@@ -80,7 +58,58 @@
     <file name="u453-49_2x.png" crc="3859149640" ref="commission"/>
     <file name="u1316-14.png" crc="4040907380" ref="commission"/>
     <file name="u1316-14_2x.png" crc="4184408686" ref="commission"/>
+    <file name="個展主視覺1.jpg" crc="4275477829" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home-home.png" crc="4011378242" ref="index:commission">
+      <caption webpage="index" alt=""/>
+      <caption webpage="commission" alt=""/>
+    </file>
+    <file name="home-home_2x.png" crc="350993880" ref="index:commission">
+      <caption webpage="index" alt=""/>
+      <caption webpage="commission" alt=""/>
+    </file>
+    <file name="home-home2.png" crc="235382737" ref="index:commission">
+      <caption webpage="index" alt=""/>
+      <caption webpage="commission" alt=""/>
+    </file>
+    <file name="home-home_2x2.png" crc="49740971" ref="index:commission">
+      <caption webpage="index" alt=""/>
+      <caption webpage="commission" alt=""/>
+    </file>
+    <file name="home-home3.png" crc="22780217" ref="index:commission">
+      <caption webpage="index" alt=""/>
+      <caption webpage="commission" alt=""/>
+    </file>
+    <file name="home-home_2x3.png" crc="334386822" ref="index:commission">
+      <caption webpage="index" alt=""/>
+      <caption webpage="commission" alt=""/>
+    </file>
+    <file name="home-commission.png" crc="3980662059" ref="index:commission">
+      <caption webpage="index" alt=""/>
+      <caption webpage="commission" alt=""/>
+    </file>
+    <file name="home-commission_2x.png" crc="3760192281" ref="index:commission">
+      <caption webpage="index" alt=""/>
+      <caption webpage="commission" alt=""/>
+    </file>
+    <file name="home-commission2.png" crc="4248076307" ref="index:commission">
+      <caption webpage="index" alt=""/>
+      <caption webpage="commission" alt=""/>
+    </file>
+    <file name="home-commission_2x2.png" crc="32319927" ref="index:commission">
+      <caption webpage="index" alt=""/>
+      <caption webpage="commission" alt=""/>
+    </file>
+    <file name="home.png" crc="404926519" ref="index:commission">
+      <caption webpage="index" alt=""/>
+      <caption webpage="commission" alt=""/>
+    </file>
+    <file name="home_2x.png" crc="200644759" ref="index:commission">
+      <caption webpage="index" alt=""/>
+      <caption webpage="commission" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="255599736" seo="true" mt="1611677372147" redirect="true"/>
-  <file name="commission.html" crc="4240983102" seo="true" mt="1611678297262" redirect="true"/>
+  <file name="index.html" crc="4226921748" seo="true" mt="1611718887367" redirect="true"/>
+  <file name="commission.html" crc="3934828632" seo="true" mt="1611718930259" redirect="true"/>
 </manifest>
