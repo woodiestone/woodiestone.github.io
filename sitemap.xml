@@ -17,9 +17,6 @@
     <image:image>
       <image:loc>http://www.commission.com/images/ig_2x.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://www.commission.com/images/%E5%80%8B%E5%B1%95%E4%B8%BB%E8%A6%96%E8%A6%BA1.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://www.commission.com/commission.html</loc>
@@ -39,19 +36,46 @@
       <image:loc>http://www.commission.com/images/ig_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.commission.com/images/7cd375_6ac28c143be64c34975398552231e5fa~mv2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.commission.com/images/7cd375_3ae91453b22f4cca87f1ec57035e8925~mv2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.commission.com/images/7cd375_5c0cad4f1f2b454eab530ed4efc4438f~mv2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.commission.com/images/7cd375_7d505d56b9fb4870a3e1a210705324c9~mv2.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.commission.com/images/7cd375_ded9a73bc43f42b39db6b12a606a3ae7~mv2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.commission.com/images/7cd375_3ff9979d87884fb294917807909ff4c4~mv2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.commission.com/images/7cd375_3ff9979d87884fb294917807909ff4c4~mv2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.commission.com/images/7cd375_3ae91453b22f4cca87f1ec57035e8925~mv2497x497.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.commission.com/images/7cd375_3ae91453b22f4cca87f1ec57035e8925~mv2497x497_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.commission.com/images/7cd375_5c0cad4f1f2b454eab530ed4efc4438f~mv2497x497.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.commission.com/images/7cd375_5c0cad4f1f2b454eab530ed4efc4438f~mv2497x497_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.commission.com/images/7cd375_6ac28c143be64c34975398552231e5fa~mv2497x497.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.commission.com/images/7cd375_6ac28c143be64c34975398552231e5fa~mv2497x497_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.commission.com/images/7cd375_7d505d56b9fb4870a3e1a210705324c9~mv2497x497.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.commission.com/images/7cd375_7d505d56b9fb4870a3e1a210705324c9~mv2497x497_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.commission.com/images/7cd375_ded9a73bc43f42b39db6b12a606a3ae7~mv2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.commission.com/images/7cd375_7d69679b2de44422bf117fb11bc51360~mv2499x499.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.commission.com/images/7cd375_7d69679b2de44422bf117fb11bc51360~mv2499x499_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
