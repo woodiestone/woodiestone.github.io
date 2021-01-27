@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.commission.com" resolutions="1x,2x" timestamp="1611724580454">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.commission.com" resolutions="1x,2x" timestamp="1611732462280">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="189352720" ref="index"/>
+    <file name="index.css" crc="4283709206" ref="index"/>
     <file name="master_a-__.css" crc="401565179" ref="index:commission"/>
-    <file name="commission.css" crc="366788723" ref="commission"/>
+    <file name="commission.css" crc="4129040986" ref="commission"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:commission"/>
@@ -12,7 +12,7 @@
     <file name="museconfig.js" crc="380897831" ref="index:commission"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:commission"/>
     <file name="require.js" crc="4157109226" ref="index:commission"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:commission"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
     <file name="webpro.js" crc="242022427" ref="commission"/>
     <file name="musewpslideshow.js" crc="457073769" ref="commission"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="commission"/>
@@ -46,51 +46,51 @@
     <file name="u453-49_2x.png" crc="3859149640" ref="commission"/>
     <file name="u1316-14.png" crc="142638182" ref="commission"/>
     <file name="u1316-14_2x.png" crc="4205455975" ref="commission"/>
-    <file name="home-home.png" crc="4011378242" ref="index:commission">
+    <file name="home-home.png" crc="4011378242" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="commission" alt=""/>
     </file>
-    <file name="home-home_2x.png" crc="350993880" ref="index:commission">
+    <file name="home-home_2x.png" crc="350993880" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="commission" alt=""/>
     </file>
-    <file name="home-home2.png" crc="235382737" ref="index:commission">
+    <file name="home-home2.png" crc="235382737" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="commission" alt=""/>
     </file>
-    <file name="home-home_2x2.png" crc="49740971" ref="index:commission">
+    <file name="home-home_2x2.png" crc="49740971" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="commission" alt=""/>
     </file>
-    <file name="home-home3.png" crc="22780217" ref="index:commission">
+    <file name="home-home3.png" crc="22780217" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="commission" alt=""/>
     </file>
-    <file name="home-home_2x3.png" crc="334386822" ref="index:commission">
+    <file name="home-home_2x3.png" crc="334386822" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="commission" alt=""/>
     </file>
-    <file name="home-commission.png" crc="3980662059" ref="index:commission">
+    <file name="home-commission.png" crc="3980662059" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="commission" alt=""/>
     </file>
-    <file name="home-commission_2x.png" crc="3760192281" ref="index:commission">
+    <file name="home-commission_2x.png" crc="3760192281" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="commission" alt=""/>
     </file>
-    <file name="home-commission2.png" crc="4248076307" ref="index:commission">
+    <file name="home-commission2.png" crc="4248076307" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="commission" alt=""/>
     </file>
-    <file name="home-commission_2x2.png" crc="32319927" ref="index:commission">
+    <file name="home-commission_2x2.png" crc="32319927" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="commission" alt=""/>
     </file>
-    <file name="home.png" crc="404926519" ref="index:commission">
+    <file name="home.png" crc="404926519" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="commission" alt=""/>
     </file>
-    <file name="home_2x.png" crc="200644759" ref="index:commission">
+    <file name="home_2x.png" crc="200644759" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="commission" alt=""/>
     </file>
@@ -131,19 +131,40 @@
     <file name="u3429-11_2x.png" crc="3946356835" ref="commission"/>
     <file name="7cd375_6ac28c143be64c34975398552231e5fa~mv2-u3618-fr.jpg" crc="3797041148" ref="index"/>
     <file name="7cd375_6ac28c143be64c34975398552231e5fa~mv2-u3618-fr_2x.jpg" crc="489319335" ref="index"/>
-    <file name="u3660-4.png" crc="4222070344" ref="index"/>
-    <file name="u3660-4_2x.png" crc="62843734" ref="index"/>
+    <file name="u3660-4.png" crc="94764834" ref="index"/>
+    <file name="u3660-4_2x.png" crc="3940419629" ref="index"/>
     <file name="7cd375_7d69679b2de44422bf117fb11bc51360~mv2-u3621-fr.jpg" crc="3979929509" ref="index"/>
     <file name="7cd375_7d69679b2de44422bf117fb11bc51360~mv2-u3621-fr_2x.jpg" crc="286465124" ref="index"/>
-    <file name="u3663-4.png" crc="4222070344" ref="index"/>
-    <file name="u3663-4_2x.png" crc="62843734" ref="index"/>
     <file name="7cd375_7d69679b2de44422bf117fb11bc51360~mv2499x499.jpg" crc="337385055" seo="true" ref="commission">
       <caption webpage="commission" alt=""/>
     </file>
     <file name="7cd375_7d69679b2de44422bf117fb11bc51360~mv2499x499_2x.jpg" crc="125378846" seo="true" ref="commission">
       <caption webpage="commission" alt=""/>
     </file>
+    <file name="u3666-4.png" crc="94764834" ref="index"/>
+    <file name="u3666-4_2x.png" crc="3940419629" ref="index"/>
+    <file name="7cd375_9af267db6831461fba703df15a2e3f61~mv2.jpg" crc="4169962014" seo="true" ref="commission">
+      <caption webpage="commission" alt=""/>
+    </file>
+    <file name="7cd375_66a4c590047e4e1dbfaf92733abee19e~mv2.jpg" crc="4268113318" seo="true" ref="commission">
+      <caption webpage="commission" alt=""/>
+    </file>
+    <file name="7cd375_66a4c590047e4e1dbfaf92733abee19e~mv2_2x.jpg" crc="142009993" seo="true" ref="commission">
+      <caption webpage="commission" alt=""/>
+    </file>
+    <file name="7cd375_dad0e9ce4aac41c9a4c024ca4642d69d~mv2.jpg" crc="196990802" seo="true" ref="commission">
+      <caption webpage="commission" alt=""/>
+    </file>
+    <file name="u3812-16.png" crc="4186628588" ref="commission"/>
+    <file name="u3812-16_2x.png" crc="501928604" ref="commission"/>
+    <file name="7cd375_05001f2aec96421f84dff378710a0adc~mv2-crop-u3918.jpg" crc="4146429758" seo="true" ref="commission">
+      <caption webpage="commission" alt=""/>
+    </file>
+    <file name="7cd375_66a4c590047e4e1dbfaf92733abee19e~mv2-u3627-fr.jpg" crc="3854652417" ref="index"/>
+    <file name="7cd375_66a4c590047e4e1dbfaf92733abee19e~mv2-u3627-fr_2x.jpg" crc="319408469" ref="index"/>
+    <file name="u4101-4.png" crc="81423537" ref="index"/>
+    <file name="u4101-4_2x.png" crc="3817876469" ref="index"/>
   </folder>
-  <file name="index.html" crc="3916477040" seo="true" mt="1611724470600" redirect="true"/>
-  <file name="commission.html" crc="75974115" seo="true" mt="1611724566487" redirect="true"/>
+  <file name="index.html" crc="3947761279" seo="true" mt="1611732436119" redirect="true"/>
+  <file name="commission.html" crc="4263821748" seo="true" mt="1611732426773" redirect="true"/>
 </manifest>
