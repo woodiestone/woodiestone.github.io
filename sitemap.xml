@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.picnic.com/index.html</loc>
-    <lastmod>2021-01-17</lastmod>
+    <loc>http://www.commission.com/index.html</loc>
+    <lastmod>2021-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.picnic.com/images/%E4%B8%89%E8%A6%96.jpg</image:loc>
+      <image:loc>http://www.commission.com/images/fb.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.picnic.com/images/%E4%B8%89%E8%A6%96_2x.jpg</image:loc>
+      <image:loc>http://www.commission.com/images/fb_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.commission.com/images/ig.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.commission.com/images/ig_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.commission.com/images/cactus.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.commission.com/images/road.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.commission.com/images/trees.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://www.picnic.com/animation.html</loc>
-    <lastmod>2021-01-17</lastmod>
+    <loc>http://www.commission.com/commission.html</loc>
+    <lastmod>2021-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.picnic.com/images/%E4%B8%89%E8%A6%96.png</image:loc>
+      <image:loc>http://www.commission.com/images/fb.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.picnic.com/images/%E4%B8%89%E8%A6%96_2x.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://www.picnic.com/oh-my-god.html</loc>
-    <lastmod>2021-01-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.picnic.com/images/jk%20bd.jpg</image:loc>
+      <image:loc>http://www.commission.com/images/fb_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.picnic.com/images/jk%20bd_2x.jpg</image:loc>
+      <image:loc>http://www.commission.com/images/ig.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.picnic.com/images/jin%20bd-crop-u518.jpg</image:loc>
+      <image:loc>http://www.commission.com/images/ig_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.picnic.com/images/jin%20bd-crop-u518_2x.jpg</image:loc>
+      <image:loc>http://www.commission.com/images/7cd375_6ac28c143be64c34975398552231e5fa~mv2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.picnic.com/images/jk%20jk-crop-u520.jpg</image:loc>
+      <image:loc>http://www.commission.com/images/7cd375_3ae91453b22f4cca87f1ec57035e8925~mv2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.picnic.com/images/jk%20jk-crop-u520_2x.jpg</image:loc>
+      <image:loc>http://www.commission.com/images/7cd375_5c0cad4f1f2b454eab530ed4efc4438f~mv2.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://www.picnic.com/video.html</loc>
-    <lastmod>2021-01-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.picnic.com/assets/%E8%88%9E%E5%8B%95%E7%B8%BD%E8%A9%95%E5%BD%B1%E7%89%87.mp4</loc>
-    <lastmod>2021-01-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.commission.com/images/7cd375_7d505d56b9fb4870a3e1a210705324c9~mv2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.commission.com/images/7cd375_ded9a73bc43f42b39db6b12a606a3ae7~mv2.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>

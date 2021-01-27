@@ -1,98 +1,86 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.picnic.com" resolutions="1x,2x" timestamp="1611111864151">
-  <folder name="assets">
-    <file name="舞動總評影片.mp4" crc="231771911" seo="true" mt="1611111412000"/>
-  </folder>
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.commission.com" resolutions="1x,2x" timestamp="1611678309516">
   <folder name="css">
-    <file name="site_global.css" crc="4167989958"/>
-    <file name="index.css" crc="206184375" ref="index"/>
-    <file name="animation.css" crc="4034559051" ref="animation"/>
-    <file name="oh-my-god.css" crc="3898968326" ref="oh-my-god"/>
-    <file name="video.css" crc="127186767" ref="video"/>
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3897434814" ref="index"/>
+    <file name="master_a-__.css" crc="4030053580" ref="index:commission"/>
+    <file name="commission.css" crc="342464095" ref="commission"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:animation:oh-my-god:video"/>
-    <file name="museutils.js" crc="3803043152" ref="index:animation:oh-my-god:video"/>
-    <file name="whatinput.js" crc="86476730" ref="index:animation:oh-my-god:video"/>
-    <file name="museconfig.js" crc="380897831" ref="index:animation:oh-my-god:video"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:oh-my-god"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:animation:oh-my-god:video"/>
-    <file name="require.js" crc="4157109226" ref="index:animation:oh-my-god:video"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
-    <file name="webpro.js" crc="242022427" ref="oh-my-god"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="oh-my-god"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="oh-my-god"/>
-    <file name="touchswipe.js" crc="4066113679" ref="oh-my-god"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:commission"/>
+    <file name="museutils.js" crc="3803043152" ref="index:commission"/>
+    <file name="whatinput.js" crc="86476730" ref="index:commission"/>
+    <file name="museconfig.js" crc="380897831" ref="index:commission"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:commission"/>
+    <file name="require.js" crc="4157109226" ref="index:commission"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index:commission"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:commission"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:commission"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:commission"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:commission"/>
   </folder>
   <folder name="images">
-    <file name="1.jpg" crc="275166804" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index:commission"/>
+    <file name="loading.gif" crc="3815509949" ref="index:commission"/>
+    <file name="u448-7.png" crc="3771967102" ref="index:commission"/>
+    <file name="u448-7_2x.png" crc="234275046" ref="index:commission"/>
+    <file name="fb.png" crc="34795282" seo="true" ref="index:commission">
+      <caption webpage="index" alt=""/>
+      <caption webpage="commission" alt=""/>
+    </file>
+    <file name="fb_2x.png" crc="3788688044" seo="true" ref="index:commission">
+      <caption webpage="index" alt=""/>
+      <caption webpage="commission" alt=""/>
+    </file>
+    <file name="ig.png" crc="197799432" seo="true" ref="index:commission">
+      <caption webpage="index" alt=""/>
+      <caption webpage="commission" alt=""/>
+    </file>
+    <file name="ig_2x.png" crc="4242854763" seo="true" ref="index:commission">
+      <caption webpage="index" alt=""/>
+      <caption webpage="commission" alt=""/>
+    </file>
+    <file name="home-u326-fr.png" crc="4244233479" ref="index"/>
+    <file name="home-u326-fr_2x.png" crc="180869003" ref="index"/>
+    <file name="home-u326-r-fr.png" crc="369669368" ref="index"/>
+    <file name="home-u326-r-fr_2x.png" crc="134407970" ref="index"/>
+    <file name="home-u326-m-fr.png" crc="4001269312" ref="index"/>
+    <file name="home-u326-m-fr_2x.png" crc="3758240669" ref="index"/>
+    <file name="home-u285-fr.png" crc="131295946" ref="index"/>
+    <file name="home-u285-fr_2x.png" crc="518257355" ref="index"/>
+    <file name="home-u285-r-fr.png" crc="3806393210" ref="index"/>
+    <file name="home-u285-r-fr_2x.png" crc="528280012" ref="index"/>
+    <file name="home-u285-m-fr.png" crc="4163997383" ref="index"/>
+    <file name="home-u285-m-fr_2x.png" crc="90251029" ref="index"/>
+    <file name="cactus.jpg" crc="491424337" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1_2x.jpg" crc="505722931" ref="index">
+    <file name="road.jpg" crc="180693847" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2.jpg" crc="360387370" ref="oh-my-god">
-      <caption webpage="index" alt=""/>
-      <caption webpage="oh-my-god" alt=""/>
-    </file>
-    <file name="2_2x.jpg" crc="75585152" ref="oh-my-god">
-      <caption webpage="index" alt=""/>
-      <caption webpage="oh-my-god" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="oh-my-god"/>
-    <file name="jk bd.jpg" crc="3811917111" seo="true" ref="oh-my-god">
-      <caption webpage="index" alt=""/>
-      <caption webpage="oh-my-god" alt=""/>
-    </file>
-    <file name="jk bd_2x.jpg" crc="22721209" seo="true" ref="oh-my-god">
-      <caption webpage="index" alt=""/>
-      <caption webpage="oh-my-god" alt=""/>
-    </file>
-    <file name="loading.gif" crc="3815509949" ref="oh-my-god"/>
-    <file name="face-圖層 1.png" crc="3915504726" ref="index:oh-my-god">
+    <file name="trees.jpg" crc="4071309946" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="face-圖層 1_2x.png" crc="4207807636" ref="index:oh-my-god">
-      <caption webpage="index" alt=""/>
+    <file name="7cd375_6ac28c143be64c34975398552231e5fa~mv2.jpg" crc="4164153567" seo="true" ref="commission">
+      <caption webpage="commission" alt=""/>
     </file>
-    <file name="face-圖層 2.png" crc="426106178" ref="index:oh-my-god">
-      <caption webpage="index" alt=""/>
+    <file name="7cd375_3ae91453b22f4cca87f1ec57035e8925~mv2.jpg" crc="4034308210" seo="true" ref="commission">
+      <caption webpage="commission" alt=""/>
     </file>
-    <file name="face-圖層 2_2x.png" crc="4073447268" ref="index:oh-my-god">
-      <caption webpage="index" alt=""/>
+    <file name="7cd375_5c0cad4f1f2b454eab530ed4efc4438f~mv2.jpg" crc="421916817" seo="true" ref="commission">
+      <caption webpage="commission" alt=""/>
     </file>
-    <file name="face-圖層 3.png" crc="124237393" ref="index:oh-my-god">
-      <caption webpage="index" alt=""/>
+    <file name="7cd375_7d505d56b9fb4870a3e1a210705324c9~mv2.jpg" crc="3924156976" seo="true" ref="commission">
+      <caption webpage="commission" alt=""/>
     </file>
-    <file name="face-圖層 3_2x.png" crc="441505100" ref="index:oh-my-god">
-      <caption webpage="index" alt=""/>
+    <file name="7cd375_ded9a73bc43f42b39db6b12a606a3ae7~mv2.jpg" crc="250229064" seo="true" ref="commission">
+      <caption webpage="commission" alt=""/>
     </file>
-    <file name="三視.jpg" crc="95675551" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="三視_2x.jpg" crc="3781428283" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="三視.png" crc="3971853114" seo="true" ref="animation">
-      <caption webpage="animation" alt=""/>
-    </file>
-    <file name="三視_2x.png" crc="4126830566" seo="true" ref="animation">
-      <caption webpage="animation" alt=""/>
-    </file>
-    <file name="jin bd-crop-u518.jpg" crc="4149973519" seo="true" ref="oh-my-god">
-      <caption webpage="oh-my-god" alt=""/>
-    </file>
-    <file name="jin bd-crop-u518_2x.jpg" crc="4282303754" seo="true" ref="oh-my-god">
-      <caption webpage="oh-my-god" alt=""/>
-    </file>
-    <file name="jk jk-crop-u520.jpg" crc="4026455180" seo="true" ref="oh-my-god">
-      <caption webpage="oh-my-god" alt=""/>
-    </file>
-    <file name="jk jk-crop-u520_2x.jpg" crc="38622482" seo="true" ref="oh-my-god">
-      <caption webpage="oh-my-god" alt=""/>
-    </file>
+    <file name="u453-49.png" crc="4020284924" ref="commission"/>
+    <file name="u453-49_2x.png" crc="3859149640" ref="commission"/>
+    <file name="u1316-14.png" crc="4040907380" ref="commission"/>
+    <file name="u1316-14_2x.png" crc="4184408686" ref="commission"/>
   </folder>
-  <file name="index.html" crc="37917926" seo="true" mt="1610860867870" redirect="true"/>
-  <file name="animation.html" crc="4041417786" seo="true" mt="1610861134890" redirect="true"/>
-  <file name="oh-my-god.html" crc="3997002621" seo="true" mt="1610860788455" redirect="true"/>
-  <file name="video.html" crc="328802835" seo="true" mt="1611111823186" redirect="true"/>
+  <file name="index.html" crc="255599736" seo="true" mt="1611677372147" redirect="true"/>
+  <file name="commission.html" crc="4240983102" seo="true" mt="1611678297262" redirect="true"/>
 </manifest>
